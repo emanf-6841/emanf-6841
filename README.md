@@ -3,15 +3,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emanf-6841&label=Profile%20views&color=blue&style=flat" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Eman%20Fatima&fontColor=ffffff" />
 
 - 🌱 I’m currently learning React, Node.js, MongoDB
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Web Development, MERN Stack
-- 📫 How to reach me: yourgmail@gmail.com
+- 📫 How to reach me: emanf6841@gmail.com
 - ⚡ Fun fact: I love solving coding problems
+<img align="right" alt="girl coding" width="350"
+src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img src="https://github-readme-stats.vercel.app/api?username=emanf-6841&show_icons=true&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,java,cpp&theme=dark" />
+
+
 <h3>Languages and Tools:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,cpp,bootstrap,git" />
 </p>
-<img align="right" alt="coding" width="350"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
