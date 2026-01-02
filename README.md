@@ -13,10 +13,9 @@
 <img align="right" alt="girl coding" width="350"
 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <img src="https://github-readme-stats.vercel.app/api?username=emanf-6841&show_icons=true&theme=tokyonight" />
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,java,cpp&theme=dark" />
 
 
 <h3>Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,cpp,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,react,reactnative" />
 </p>
